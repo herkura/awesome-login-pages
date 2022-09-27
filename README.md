@@ -2,7 +2,6 @@
 
 A Project which includes curated list of different login page web pages.
 
-
 | Name           | Screenshot                                                                                                                                    | Contributed by                                     |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
 | login-form-01  | <img src="https://raw.githubusercontent.com/LoginRadius/awesome-login-pages/main/login-form-01/login-form-01/screenshot.png" width="480" >    | [@hiteshkumawat](https://github.com/hiteshkumawat) |
@@ -30,8 +29,7 @@ A Project which includes curated list of different login page web pages.
 | login-form-v10 | <img src="https://raw.githubusercontent.com/LoginRadius/awesome-login-pages/main/login-form-v10/login-form-v10/screenshot.png " width="480" > | [@abhir9](https://github.com/abhir9)               |
 | login-form-v11 | <img src="https://raw.githubusercontent.com/LoginRadius/awesome-login-pages/main/login-form-v11/login-form-v11/screenshot.png " width="480" > | [@abhir9](https://github.com/abhir9)               |
 | login-form-v12 | <img src="https://raw.githubusercontent.com/LoginRadius/awesome-login-pages/main/login-form-v12/login-form-v12/screenshot.png " width="480" > | [@abhir9](https://github.com/abhir9)               |
-| login-form-v14 | <img src="https://github.com/herkura/awesome-login-pages/blob/branch_herkura/login-form-v14/screenshot.PNG" width="480" > | [@herkura](https://github.com/herkura)               |
-
+| login-form-v14 | <img src="https://github.com/herkura/awesome-login-pages/blob/branch_herkura/login-form-v14/screenshot.PNG" width="480" >                     | [@herkura](https://github.com/herkura)             |
 
 ## CONTRIBUTION
 
